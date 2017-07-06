@@ -1,5 +1,11 @@
 # LambdaCalculus
 
+# Requirements
+
+If you have GHC and the parsing library Parsec installed, you should be able to simply invoke `make` to build this app.
+
+# Description
+
 This is an interpreter for a variant of Church's Lambda Calculus written in Haskell
 
 There are some sample programs in the tests directory, which demonstrate the full capabilities of the language. To sum up:
